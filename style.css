@@ -1,0 +1,10 @@
+body {
+  background: #252727;
+  height: 100%;
+  width: 100%;
+}
+h1 {
+	color: white;
+	text-align: center;
+	font-family: 'Helvetica Neue', Lato, Noto, Roboto, sans-serif;
+}
